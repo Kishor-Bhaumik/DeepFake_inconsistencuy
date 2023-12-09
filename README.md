@@ -1,6 +1,6 @@
 
 
-This is the official implementation of WDC-2023 paper by Kishor Kumar Bhaumikand Simon S. Woo \
+This is the official implementation of WDC-2023 paper by Kishor Kumar Bhaumik and Simon S. Woo \
 [Exploiting Inconsistencies in Object Representations for DeepFake Video Detection](https://dl.acm.org/doi/pdf/10.1145/3595353.3595885).
 
 
